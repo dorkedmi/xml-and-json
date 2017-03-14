@@ -1,0 +1,22 @@
+<class>
+	<student>
+		<name>dor</name>
+		<grades>
+			<math>100</math>
+			<clang>90</clang>
+			<sports>60</sports>
+			<geography>70</geography>
+			<music>100</music>
+		</grades>
+	</student>
+	<student>
+		<name>ben</name>
+		<grades>
+			<math>90</math>
+			<clang>80</clang>
+			<sports>90</sports>
+			<geography>20</geography>
+			<music>70</music>
+		</grades>
+	</student>
+</class>

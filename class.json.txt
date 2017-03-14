@@ -1,0 +1,8 @@
+{ "class":"g2"[
+	{ "firstName": "Dor", "lastName":"Kedmi" ,"grade":[
+	"math":90, "cLang":100  ]},
+	{ "firstName": "Itzik", "lastName":"Ovadia" :[
+	"math":90, "cLang":100  ]},
+	{ "firstName": "Tamir", "lastName":"Yosefyan" :[
+	"math":90, "cLang":100  ]}
+]}

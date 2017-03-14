@@ -1,0 +1,99 @@
+
+<school>
+<class 1>
+<student>
+	<name>dor</name>
+	<grades>
+		<math>100</math>
+		<clang>90</clang>
+		<sports>60</sports>
+		<geography>70</geography>
+		<music>100</music>
+	</grades>
+</student>
+<student>
+	<name>ben</name>
+	<grades>
+		<math>100</math>
+		<clang>90</clang>
+		<sports>60</sports>
+		<geography>70</geography>
+		<music>100</music>
+	</grades>
+</student>
+<student>
+	<name>dan</name>
+	<grades>
+		<math>100</math>
+		<clang>90</clang>
+		<sports>60</sports>
+		<geography>70</geography>
+		<music>100</music>
+	</grades>
+</student>
+</class 1>
+<class 2>
+<student>
+	<name>itzik</name>
+	<grades>
+		<math>100</math>
+		<clang>90</clang>
+		<sports>60</sports>
+		<geography>70</geography>
+		<music>100</music>
+	</grades>
+</student>
+<student>
+	<name>stav</name>
+	<grades>
+		<math>100</math>
+		<clang>90</clang>
+		<sports>60</sports>
+		<geography>70</geography>
+		<music>100</music>
+	</grades>
+</student>
+<student>
+	<name>roy</name>
+	<grades>
+		<math>100</math>
+		<clang>90</clang>
+		<sports>60</sports>
+		<geography>70</geography>
+		<music>100</music>
+	</grades>
+</student>
+</class 2>
+<class 3>
+<student>
+	<name>tamir</name>
+	<grades>
+		<math>100</math>
+		<clang>90</clang>
+		<sports>60</sports>
+		<geography>70</geography>
+		<music>100</music>
+	</grades>
+</student>
+<student>
+	<name>roni</name>
+	<grades>
+		<math>100</math>
+		<clang>90</clang>
+		<sports>60</sports>
+		<geography>70</geography>
+		<music>100</music>
+	</grades>
+</student>
+<student>
+	<name>jony</name>
+	<grades>
+		<math>100</math>
+		<clang>90</clang>
+		<sports>60</sports>
+		<geography>70</geography>
+		<music>100</music>
+	</grades>
+</student>
+</class 3>
+</school>
